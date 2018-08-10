@@ -1,2 +1,1 @@
-# gitskills
-创建一个远程库
+# java practice
